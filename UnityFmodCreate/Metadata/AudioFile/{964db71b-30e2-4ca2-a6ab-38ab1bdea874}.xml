@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{964db71b-30e2-4ca2-a6ab-38ab1bdea874}">
+		<property name="assetPath">
+			<value>Dotara_48K.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ea6c3b8e-6e8f-447e-bd98-cf4142ad7ffc}</destination>
+		</relationship>
+	</object>
+</objects>
